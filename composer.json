@@ -1,0 +1,17 @@
+{
+  "name": "u0_a392/phpframework",
+  "description": "Deep Sync Framework is a lightweight, Laravel-inspired PHP framework designed for modern web development. It offers a simple MVC architecture, routing, and scalability for developers seeking performance and efficiency.",
+
+  "autoload": {
+    "psr-4": {
+      "APP\\": "app/"
+    },
+    "files": ["app/Helper.php"]
+  },
+
+  "authors": [
+    {
+      "name": "deepak gaikwad"
+    }
+  ]
+}
